@@ -1,3 +1,4 @@
 # dynamic-menu-with-redux-saga
-npm install
-npm run android
+Run
+- npm install
+- npm run android
